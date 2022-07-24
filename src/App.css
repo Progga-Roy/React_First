@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+/* .container{
+  color: rgb(10, 63, 196);
+  background-color: #61dafb;
+  padding: 12px;
+  border-radius: 12px;
+}
+.person{
+  background-color: #61dafb;
+  color: blue;
+  padding: 20px;
+  margin: 10px;
+}
+.friend{
+  background-color:blue;
+  color:#61dafb;
+  padding: 20px;
+  margin: 10px;
+} */
+
+.product{
+  background-color: lightpink;
+  padding: 15px;
+  margin: 15px;
+  color: crimson;
+  border: 2px solid mediumvioletred;
+}
